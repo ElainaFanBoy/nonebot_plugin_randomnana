@@ -34,6 +34,6 @@ _✨ 一款开箱即用的随机抽取神乐七奈表情包图片的插件（适
 ### 效果图
 
 <div align="left">
-  <img src="https://github.com/NanakoOfficial/nonebot-plugin-randomnana/blob/main/xiaoguo.png"/>
+  <img src="https://s1.vika.cn/space/2023/03/16/c870e999dc4a4472aef90f69f0b7717e?attname=xiaoguo.png"/>
 </div>
 
