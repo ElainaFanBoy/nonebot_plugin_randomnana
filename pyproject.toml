@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot-plugin-randomnana"
-version = "0.1.0"
+version = "0.1.1"
 description = "一款开箱即用的随机抽取神乐七奈表情包图片的插件（适用于Nonebot2 V11）"
 authors = ["NanakoOfficial <demo0929@vip.qq.com>"]
 license = "MIT"
