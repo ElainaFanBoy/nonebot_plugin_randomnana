@@ -2,11 +2,11 @@
 name = "nonebot-plugin-randomnana"
 version = "0.1.1"
 description = "一款开箱即用的随机抽取神乐七奈表情包图片的插件（适用于Nonebot2 V11）"
-authors = ["NanakoOfficial <demo0929@vip.qq.com>"]
+authors = ["ElainaFanBoy <demo0929@vip.qq.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/NanakoOfficial/nonebot_plugin_randomnana"
-repository = "https://github.com/NanakoOfficial/nonebot_plugin_randomnana"
+homepage = "https://github.com/ElainaFanBoy/nonebot_plugin_randomnana"
+repository = "https://github.com/ElainaFanBoy/nonebot_plugin_randomnana"
 
 [tool.poetry.dependencies]
 python = "^3.8"
